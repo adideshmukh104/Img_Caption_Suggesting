@@ -1,8 +1,8 @@
 # Automatic Image Captioning with Deep Learning
-By Gaurav Gill
-   Aditi Mishra
-   Anshika Verma
-   Sanidhya Kumar
+By Gaurav Gill,
+   Aditi Mishra,
+   Anshika Verma,
+   Sanidhya Kumar,
    Aditya Deshmukh
 
 <!-- ![](image/deepLearning.png) -->
