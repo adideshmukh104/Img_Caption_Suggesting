@@ -1,7 +1,11 @@
 # Automatic Image Captioning with Deep Learning
-By Jasmine He December, 2018
+By Gaurav Gill
+   Aditi Mishra
+   Anshika Verma
+   Sanidhya Kumar
+   Aditya Deshmukh
 
-![](image/deepLearning.png)
+<!-- ![](image/deepLearning.png) -->
 
 ## Introduction
 Google released the ‘Google’s Conceptual Captions’ dataset for image captioning as a new image-recognition challenge and an exercise in AI-driven education. Since pictures may convey a great deal of information, it is important that we create ways of generating conceptual captions from images automatically and accurately.
